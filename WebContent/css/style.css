@@ -136,7 +136,7 @@ h1 a {
     color: #eeeeee;
 }
 
-table#report_list th {
+table#report_list th {use
     font-weight: bold;
     padding: 10px 2%;
 }
